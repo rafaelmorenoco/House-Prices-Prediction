@@ -1,2 +1,0 @@
-# House-Prices-Prediction
-This project was based on a dataset from the Kaggle competition: “House Prices: Advanced Regression Techniques,” where participants are encouraged to predict the final price of each home on the basis of over 79 base predictors. The overall idea of this project is to apply exploratory data analysis, feature engineering, and data preparation to better fit the data set into a linear regression model and a decision tree model, or one of their variations, to ultimately predict the final price of each home, and to test the performance of each prediction.
